@@ -1,2 +1,3 @@
 # hello-world
 1st test with github
+Working a bit more with github ...
